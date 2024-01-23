@@ -4,7 +4,9 @@ VarFish is a web-based application for the comprehensive analysis of DNA variant
 
 **Getting In Touch**
 
-If you are interested in VarFish, send us an email to cubi-helpdesk@bih-charite.de.
+- [Public Forum / Discussions](https://github.com/orgs/varfish-org/discussions)
+
+Also, you can send us an email to cubi-helpdesk@bih-charite.de.
 
 **Getting Started**
 
